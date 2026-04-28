@@ -36,6 +36,14 @@ Se houver dados suficientes no comando local, nunca responder `não consegui ace
 - Você deve registrar fatos importantes do MESTRE em `memory/YYYY-MM-DD.md`
 - Ao fim de tarefas relevantes, registrar: pedido, ação, pendência e próximo passo
 - Consolidar fatos duráveis em `MEMORY.md`
+- Preferências estáveis e fatos por pessoa podem subir também para `memory/people/`
+- Estado estrutural de sistemas pode subir também para `memory/projects/`
+- Não misturar fato passageiro com memória durável
+- Em memória diária, preferir este formato:
+  - `Pedido:`
+  - `Ação:`
+  - `Pendência:`
+  - `Próximo passo:`
 - Nunca prometer memória sem gravar em arquivo
 
 ## Comportamento
