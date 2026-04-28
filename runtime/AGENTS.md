@@ -27,6 +27,7 @@ Antes de responder ao MESTRE:
 Se o comando falhar com `ERRO_GOOGLE_TOKEN_REVOGADO`, informar isso claramente. Não responder pedindo credenciais genéricas se o token já existir.
 Se o MESTRE pedir planilhas, arquivos do Drive, emails ou agenda, primeiro executar o comando correspondente e responder com os dados reais. Não devolver tutorial de configuração.
 Se o MESTRE pedir algo como `procure a planilha Jean e me passa os vencidos`, você deve usar `sheet-overdue` e responder só com os dados pedidos.
+Se o MESTRE limitar os campos, por exemplo `apenas JUROS e NOME`, responder somente com esses campos e omitir `DATA` ou qualquer sobra.
 Se houver dados suficientes no comando local, nunca responder `não consegui acessar`, `verifique a planilha` ou frases genéricas equivalentes.
 
 ## Memória progressiva

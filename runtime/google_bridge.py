@@ -278,7 +278,8 @@ def extract_overdue_from_sheet(spreadsheet_id, sheet_name):
     rows = []
     for raw_row in values[header_idx + 1 :]:
         mapped = row_to_map(header, raw_row)
-        if norm(str(mapped.get(status_key, ""))) != "vencido":
+        status = norm(str(mapped.get(status_key, "")))
+        if status not in {"vencido", "atrasado"}:
             continue
         rows.append(
             {
