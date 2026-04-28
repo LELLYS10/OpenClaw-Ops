@@ -17,3 +17,4 @@ Esta pasta deve guardar rotinas operacionais estáveis do BOBY/OpenClaw em forma
 - `drive-recent.md`
 - `calendar-today.md`
 - `crash-recovery.md`
+- `deploy-rollback.md`

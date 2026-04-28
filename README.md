@@ -9,6 +9,11 @@ Repositório dedicado à operação do BOBY/OpenClaw.
 - `runtime/`: espelho dos arquivos críticos da VPS
 - `obsidian/`: recorte do vault operacional do BOBY
 
+## Documentos-chave
+- `docs/arquitetura-operacional.md`
+- `docs/checklist-prontidao.md`
+- `docs/matriz-validacao.md`
+
 ## Objetivo
 - separar OpenClaw da bagunça do Desktop
 - versionar o que é publicável
