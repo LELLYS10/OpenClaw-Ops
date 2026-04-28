@@ -33,6 +33,7 @@
 - Para buscar vencidos em planilha nomeada, SEMPRE executar: `python3 /data/.openclaw/workspace/google_bridge.py sheet-overdue "NOME_DA_PLANILHA"`
 - Pedidos como `planilha Jean`, `vencidos`, `juros, nome e data` devem ser tratados como consulta real, não como tutorial
 - Se o MESTRE limitar os campos, por exemplo `apenas juros e nome`, responder somente com esses campos e omitir o resto
+- Em resposta de planilha, devolver uma única lista final, sem repetir o bloco inteiro e sem duplicar linhas idênticas
 - NÃO responder com tutorial de Google Cloud Console, OAuth ou instalação de biblioteca se o comando local funcionar
 
 ### Google Calendar
