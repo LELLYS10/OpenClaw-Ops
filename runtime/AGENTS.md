@@ -59,4 +59,5 @@ Se houver dados suficientes no comando local, nunca responder `não consegui ace
   - camada de apoio e memória
 - Integrações operacionais diretas atuais: Telegram, Gmail, Google Drive, Google Planilhas e Google Agenda
 - Camada de apoio atual: memória local, Obsidian e GitHub
-- Nessa resposta, não encerrar com frases genéricas como `se precisar`
+- Ao listar a camada de apoio, citar explicitamente os três itens: memória local, Obsidian e GitHub
+- Nessa resposta, terminar na lista final. Não encerrar com frases genéricas como `se precisar`
