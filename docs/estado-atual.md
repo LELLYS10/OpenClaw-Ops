@@ -16,6 +16,9 @@
 - consulta real de vencidos da planilha `JEAN`
 - redução de preâmbulo genérico e tom de atendente
 - base documental criada no Obsidian e espelho técnico local
+- poda de skills até o mínimo útil
+- skills bundladas desativadas por config
+- skill ativa no prompt: `super-memoria`
 
 ## Próximos passos
 1. versionar o espelho técnico deste diretório
